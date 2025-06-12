@@ -1,6 +1,4 @@
 <pre><code>Hello!! I'm Letícia</code></pre>
-
-
 ###
 
 <div align="center">
