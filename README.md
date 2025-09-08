@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Letícia Carvalho
 
-**`Estudante de Engenharia de dados**`
+**Estudante de Engenharia de dados**
 
 Me chamo Letícia, tenho 26 anos e sou de Sorocaba. Atualmente, estou cursando Ciência da computação na Descomplica. Sou apaixonada por tecnologia.
 
